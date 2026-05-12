@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Module | stop-loss-management + price-monitoring is the best Polymarket module, featuring stop-loss-management and price-monitoring. Smart, fast, and optimized
 
 
 
